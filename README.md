@@ -4,7 +4,8 @@ Cloned 1-to-1 copy from Mimo app.
 
 ## Description
 
-Mimo app clone built using Bare React Native.
+Mimo app clone built using Bare React Native. There are four main sections in the app, Learn, Leaderboard, Community and Profile.
+Only Learn section is still in progress. Other remaining section are not started yet.
 
 ## Getting Started
 
